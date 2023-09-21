@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>616790690619-c595491ntrnsuv0bvqp5778hgce7tm8u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.616790690619-c595491ntrnsuv0bvqp5778hgce7tm8u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>616790690619-rrcmlsnetks94afi9p5507v2628q2nvn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBROBDZjg8HMCCHatc8NwMgaPZbXzhAelY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>616790690619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jpennington.radius</string>
+	<key>PROJECT_ID</key>
+	<string>radius-a6683</string>
+	<key>STORAGE_BUCKET</key>
+	<string>radius-a6683.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:616790690619:ios:ba091a15d9ae1aa399051e</string>
+</dict>
+</plist>

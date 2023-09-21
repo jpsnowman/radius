@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "616790690619",
+    "project_id": "radius-a6683",
+    "storage_bucket": "radius-a6683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616790690619:android:aae909e42b0ed5cd99051e",
+        "android_client_info": {
+          "package_name": "com.jpennington.radius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616790690619-rrcmlsnetks94afi9p5507v2628q2nvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jpennington.radius",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "616790690619-1ijp6a8j3boupj5jpbnap9pplhdtov9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFbXiiQGP9qAAuZKCN6IiYSEvOAoD2iX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616790690619-1ijp6a8j3boupj5jpbnap9pplhdtov9a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616790690619-c595491ntrnsuv0bvqp5778hgce7tm8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jpennington.radius"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
